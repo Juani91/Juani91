@@ -5,7 +5,8 @@ Soy egresado de la Universidad Tecnológica Nacional donde he recibido una sóli
 🎓 Técnico Universitario en Programación (UTN)  
 💻 Desarrollador Full Stack Junior   
 💼 En búsqueda de mi primera experiencia laboral para aplicar y ampliar mis conocimientos.  
-📍  Rosario, Santa Fe, Argentina
+🏡 Rosario, Santa Fe, Argentina
+
 
 ## ✉️ Contacto:
 [![Gmail](https://img.shields.io/badge/Gmail-zuccojuanignacio@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=2F3136)](mailto:zuccojuanignacio@gmail.com)  
