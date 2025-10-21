@@ -1,16 +1,14 @@
-## Hi there 👋
+## ¡Hola! 👋 Mi nombre es Juan Ignacio
+Soy egresado de la Universidad Tecnológica Nacional donde he recibido una sólida formación para llevar adelante distintos tipos de proyectos orientados principalmente al desarrollo de aplicaciones web. Paralelamente, he fortalecido y continúo fortaleciendo mi formación mediante proyectos personales y el aprendizaje de herramientas y tecnologías que potencien mi perfil técnico.
 
-<!--
-**Juani91/Juani91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 Sobre mí:
+🎓 Técnico Universitario en Programación (UTN)  
+💻 Desarrollador Full Stack Junior   
+💼 En búsqueda de mi primera experiencia laboral para aplicar y ampliar mis conocimientos.  
+📍  Rosario, Santa Fe, Argentina
 
-Here are some ideas to get you started:
+## ✉️ Contacto:
+[![Gmail](https://img.shields.io/badge/Gmail-zuccojuanignacio@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=2F3136)](mailto:zuccojuanignacio@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Ignacio%20Zucco-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=2F3136)](https://www.linkedin.com/in/juan-ignacio-zucco/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mis proyectos más relevantes se encuentran aquí 👇
