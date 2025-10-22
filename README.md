@@ -1,5 +1,5 @@
 ## ¡Hola! 👋 Mi nombre es Juan Ignacio,
-Soy egresado de la Universidad Tecnológica Nacional donde he recibido una sólida formación para llevar adelante distintos tipos de proyectos orientados principalmente al desarrollo de aplicaciones web. Paralelamente, he fortalecido y continúo fortaleciendo mi formación mediante proyectos personales y el aprendizaje de herramientas y tecnologías que potencien mi perfil técnico.
+Soy egresado de la Universidad Tecnológica Nacional donde he adquirido una sólida formación para llevar adelante distintos tipos de proyectos orientados principalmente al desarrollo de aplicaciones web. Paralelamente, he fortalecido y continúo fortaleciendo mi formación mediante proyectos personales y el aprendizaje de herramientas y tecnologías que potencien mi perfil técnico.
 
 ## 👨🏻‍💻 Sobre mí:
 🎓 Técnico Universitario en Programación (UTN)  
