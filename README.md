@@ -7,9 +7,10 @@ Soy egresado de la Universidad Tecnológica Nacional donde he adquirido una sól
 💼 En búsqueda de mi primera experiencia laboral para aplicar y ampliar mis conocimientos.  
 🏡 Rosario, Santa Fe, Argentina
 
-
 ## ✉️ Contacto:
-[![Gmail](https://img.shields.io/badge/Gmail-zuccojuanignacio@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=2F3136)](mailto:zuccojuanignacio@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Ignacio%20Zucco-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=2F3136)](https://www.linkedin.com/in/juan-ignacio-zucco/)  
+✉️ Gmail: zuccojuanignacio@gmail.com  
+🌐 Linkedin: [Juan Ignacio Zucco](https://www.linkedin.com/in/juan-ignacio-zucco/)  
+📄 Currículum: [Ver PDF](https://drive.google.com/file/d/1GHiqBvz2PxFBbq7gl3WaHta5JW4Qx8dC/view)  
+💼 Portfolio: [zuccodev.com.ar](https://www.zuccodev.com.ar)
 
 ### Mis proyectos más relevantes se encuentran aquí 👇
