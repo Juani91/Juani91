@@ -10,7 +10,10 @@ Soy egresado de la Universidad Tecnológica Nacional donde he adquirido una sól
 ## ✉️ Contacto:
 ✉️ Gmail: zuccojuanignacio@gmail.com  
 🌐 Linkedin: [Juan Ignacio Zucco](https://www.linkedin.com/in/juan-ignacio-zucco/)  
+<!--
 📄 Currículum: [Ver PDF](https://drive.google.com/file/d/1GHiqBvz2PxFBbq7gl3WaHta5JW4Qx8dC/view)  
 💼 Portfolio: [zuccodev.com.ar](https://www.zuccodev.com.ar)
 
+
 ### Mis proyectos más relevantes se encuentran aquí 👇
+-->
