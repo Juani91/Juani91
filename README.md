@@ -4,7 +4,6 @@ Soy egresado de la Universidad Tecnológica Nacional donde he adquirido una sól
 ## 👨🏻‍💻 Sobre mí:
 🎓 Técnico Universitario en Programación (UTN)  
 💻 Desarrollador Full Stack Junior   
-💼 En búsqueda de mi primera experiencia laboral para aplicar y ampliar mis conocimientos.  
 🏡 Rosario, Santa Fe, Argentina
 
 ## ✉️ Contacto:
